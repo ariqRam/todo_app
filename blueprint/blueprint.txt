@@ -1,0 +1,8 @@
+Widgets for TodoApp	:
+
+- TodoScreen -> For showing daily, monthly, or weekly todos.
+- TodoList -> A scrollable row of todo lists.
+    - Todo -> A todo list.
+- NewTodo -> A pop-up to add a todo list.
+- DoneBar -> To show the percentage of the todo.
+- DetailScreen -> A detail of a todo.
